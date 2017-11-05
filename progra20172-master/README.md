@@ -11,3 +11,5 @@ Sitio oficial del curso: <a href="http://progra.usm.cl">http://progra.usm.cl</a>
 <par>
 Versión web de las clases: <a href="http://cristopherarenas.cl/progra/">Aquí</a>
 </par>
+
+### Copiado desde el repository del profesor <a href="https://github.com/cristopherarenas/progra20172">Cristopher Arenas</a>
